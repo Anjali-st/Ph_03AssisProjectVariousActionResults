@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Assis-04VariousActionResult.props" />
+</Project>
